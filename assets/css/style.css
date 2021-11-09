@@ -101,18 +101,28 @@ section {
 }
 /* Hero Form Style End */
 
-/* Intro Section Begin */
-.intro {
-    text-align: center;
+/* Section Styles Begin */
+.section-title {
+  font-size: 55px;
+  color: #024e76;
+  margin-bottom: 35px;
+  padding: 0 100px 20px 100px;
+  display: inline-block;
+  border-bottom: 3px solid;
 }
 
-.intro h2 {
-    font-size: 55px;
-    color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    border-bottom: 2px solid #fce138;
-    display: inline-block;
+.primary-border {
+  border-color: #fce138;
+}
+
+.secondary-border {
+  border-color: #39a6b2;
+}
+/* Section Styles End */
+
+/* What We Do Section Begin */
+.intro {
+    text-align: center;
 }
 
 .intro p {
@@ -122,7 +132,38 @@ section {
     width: 80%;
     font-size: 20px;
 }
-/* Intro Section End */
+/* What We Do Section End */
+
+/* What You Do Section Begin */
+.steps {
+    text-align: center;
+    background-color: #fce138;
+}
+
+.steps div {
+    margin-bottom: 80px;
+}
+
+.steps img {
+    width: 15%;
+    margin: 10px 0;
+}
+
+.steps h3 {
+    color: #024e76;
+    font-size: 46px;
+    margin-top: 23px;
+}
+
+.steps p {
+    color: #39a6b2;
+    font-size: 23px;
+}
+
+.steps span {
+    font-size: 38px;
+}
+/* What You Do Section End */
 
 footer {
     background: #fce138;
