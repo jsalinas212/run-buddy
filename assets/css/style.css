@@ -77,6 +77,28 @@ section {
 .hero-form p {
     margin: 5px 0 15px 0;
 }
+
+.form-input {
+    font-size: 16px;
+    border: 1px solid #024e76;
+    display: block;
+    padding: 7px 15px;
+    color: #024e76;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.hero-form label {
+    margin: 0 5px;
+}
+
+.hero-form button {
+    padding: 10px 20px;
+    background-color: #024e76;
+    border: none;
+    color: #fce138;
+    font-size: 16px;
+}
 /* Hero Form Style End */
 
 footer {
