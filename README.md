@@ -13,4 +13,4 @@ Run buddy is a website for runners of all levels to enhance their skills by trai
 ## Contribution
 Designed and Developed by Jorge A Salinas Jr 💪🏻
 
-# RUN BUDDY Inc.
+### 2019 RUN BUDDY, INC
